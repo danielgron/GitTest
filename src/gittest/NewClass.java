@@ -9,14 +9,6 @@ package gittest;
  *
  * @author danie
  */
-public class GitTest {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("What a party");
-        // TODO code application logic here
-    }
+public class NewClass {
     
 }
