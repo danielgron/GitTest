@@ -16,6 +16,8 @@ public class GitTest {
      */
     public static void main(String[] args) {
         System.out.println("What a party");
+        
+        System.out.println("Wham bam");
         // TODO code application logic here
     }
     
